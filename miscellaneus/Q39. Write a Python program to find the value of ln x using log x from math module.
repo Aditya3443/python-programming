@@ -1,0 +1,5 @@
+Code:
+import math
+x=int(input("enter the integer:"))
+lnx=2.303*(math.log(x))
+print(lnx)
