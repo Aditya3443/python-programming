@@ -1,0 +1,4 @@
+import random
+l=['red','yellow','green','blue']
+random_num = random.choice(l)
+print(random_num)
